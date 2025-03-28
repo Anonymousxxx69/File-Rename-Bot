@@ -1,5 +1,5 @@
 <h1 align="center">
- <b><a href="https://youtu.be/6BWLUL3Faxs" target="/blank">Rename Bot 2GB</a>
+ <b><a href="https://youtu.be/6BWLUL3Faxs" target="/blank"> File Renamer Bot </a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
@@ -21,7 +21,7 @@
 - Auto delete 
 - Fully modified repo
 - Deploy To Koyeb + Heroku + Railway.
-- [Developer support](https://telegram.me/TechifySupport) 24x7
+- [Developer support](https://t.me/alphabotzchat) 24x7
 </details>
 
 
@@ -72,18 +72,15 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 <details><summary>Tap On Me For Credit</summary>
 
-💝 [TechifyBots](https://github.com/TechifyBots)
+💝 [Alpha Botz](https://t.me/thealphabotz)
 
-💘 [JishuDeveloper](https://github.com/JishuDeveloper)
+💘 [Ravi Kumar](https://t.me/Unknown_RK01)
 </details>
 
 ### 💕 CONTACT DEVELOPER
 
-- [Rahul](https://telegram.me/TechifyRahul)
+- [Alpha Botz Support](https://t.me/alphabotzchat)
 
-### ☕ BUY ME A COFFEE
-- [PayPal](https://paypal.me/TechifyBots)
-- [UPI](https://TechifyBots.github.io/Donate)
 
 ### 📌 NOTE
 
