@@ -59,7 +59,8 @@ async def query_metadata(bot: Client, query: CallbackQuery):
 
 
 
-# Jishu Developer 
+# JOIN @thealphabotz FOR MORE FANATIC REPOSITORIES
 # Don't Remove Credit 🥺
-# Telegram Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @thealphabotz
+# Developer @Trashxrd
+# SPECIAL THANKS TO @UNKNOWN_RK01
