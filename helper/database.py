@@ -124,4 +124,4 @@ class Database:
             return e
 
 # Create a Database instance
-jishubotz = Database(Config.DB_URL, Config.DB_NAME)
+alphabotz = Database(Config.DB_URL, Config.DB_NAME)
