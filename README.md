@@ -72,10 +72,10 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 <details><summary>Tap On Me For Credit</summary>
 
-💝 [Alpha Botz](https://t.me/thealphabotz)
-
-💘 [Ravi Kumar](https://t.me/Unknown_RK01)
+🔥 [Ravi Kumar](https://t.me/Unknown_RK01)
 </details>
+
+💘 [UTKARSH 🇮🇳] (https://t.me/Trashxrd)
 
 ### 💕 CONTACT DEVELOPER
 
