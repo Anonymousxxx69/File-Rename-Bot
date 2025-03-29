@@ -47,7 +47,7 @@ Time to revamp your files? ✨
 ❍ ʜᴏsᴛᴇᴅ ᴏɴ : ᴋᴏʏᴇʙ
 ❍ ᴅᴀᴛᴀʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ
 ❍ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 𝟹
-❍ ᴍʏ ᴄʀᴇᴀᴛᴏʀ : <a href='https://telegram.me/Unknown_RK01'>Rᴀᴠɪ Kᴜᴍᴀʀ</a>
+❍ ᴍʏ ᴄʀᴇᴀᴛᴏʀ : <a href='https://telegram.me/Trashxrd'>UTKARSH 🇮🇳</a>
 
 ➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ᴍᴏʀᴇ ɪɴꜰᴏ ᴀʙᴏᴜᴛ ᴍᴇ.</b>
 """
@@ -86,7 +86,7 @@ Time to revamp your files? ✨
 ➲ /see_prefix: ᴛᴏ ᴠɪᴇᴡ ʏᴏᴜʀ ᴄᴜꜱᴛᴏᴍ ᴘʀᴇꜰɪx.
 ➲ /del_prefix: ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴄᴜꜱᴛᴏᴍ ᴘʀᴇꜰɪx.
 
-» ᴇx: `/set_prefix @BotVerseRavi`
+» ᴇx: `/set_prefix @thealphabotz`
 """
 
     SUFFIX = """<b>» <u>ᴛᴏ ꜱᴇᴛ ᴄᴜꜱᴛᴏᴍ sᴜꜰꜰɪx</u></b>
@@ -95,7 +95,7 @@ Time to revamp your files? ✨
 ➲ /see_suffix: ᴛᴏ ᴠɪᴇᴡ ʏᴏᴜʀ ᴄᴜꜱᴛᴏᴍ sᴜꜰꜰɪx.
 ➲ /del_suffix: ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴄᴜꜱᴛᴏᴍ sᴜꜰꜰɪx.
 
-» ᴇx: `/set_suffix @BotVerseRavi`
+» ᴇx: `/set_suffix @thealphabotz`
 """
 
     PROGRESS_BAR = """\n
@@ -105,13 +105,14 @@ Time to revamp your files? ✨
 ️ <b>⏰️ ETA :</b> {4}
 """
 
-    DONATE_TXT = """  """
-
     SEND_METADATA = """🖼️ 𝗛𝗼𝘄 𝗧𝗼 𝗦𝗲𝘁 𝗖𝘂𝘀𝘁𝗼𝗺 𝗠𝗲𝘁𝗮𝗱𝗮𝘁𝗮
 
 For Example :-
 
-<code>By: @BotVerseRavi</code>
+<code>By: @thealphabotz</code>
 
-💬 For Help Contact @Unknown_RK01
+💬 For Help Contact @thealphabotz
 """
+
+# JOIN @thealphabotz FOR MORE FANTASTIC REPOSITORIES
+# SPECIAL THANKS TO @Unknown_RK01
