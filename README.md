@@ -73,9 +73,8 @@ status - Check bot status [FOR ADMINS USE ONLY].
 <details><summary>Tap On Me For Credit</summary>
 
 🔥 [Ravi Kumar](https://t.me/Unknown_RK01)
+💘 [UTKARSH 🇮🇳](https://t.me/Trashxrd)
 </details>
-
-💘 [UTKARSH 🇮🇳] (https://t.me/Trashxrd)
 
 ### 💕 CONTACT DEVELOPER
 
