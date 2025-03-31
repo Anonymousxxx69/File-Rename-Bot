@@ -20,7 +20,7 @@
 - Supports ulimited renaming at a time.
 - Auto delete 
 - Fully modified repo
-- Deploy To Koyeb + Heroku + Railway.
+- Deploy To Koyeb + Heroku + Render.
 - [Developer support](https://t.me/alphabotzchat) 24x7
 </details>
 
